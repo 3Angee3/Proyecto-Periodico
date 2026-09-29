@@ -1,0 +1,11 @@
+/* Estilos propios sobre Bootstrap 5 */
+:root{--brand:#4a3f8f}
+.bg-brand{background:var(--brand)}
+.hero{background:linear-gradient(135deg,#4a3f8f,#8a7fd1)}
+.card-img-top{height:180px;object-fit:cover}
+.detalle-img{max-height:420px;object-fit:cover}
+.thumb{width:72px;height:72px;object-fit:cover}
+.empty{background:#f1eff8;border:2px dashed #b9b3d8}
+.card .fav-btn,.list-group .fav-btn{color:#c0392b;text-decoration:none;font-size:1.4rem}
+footer{background:#2b2550;color:#ddd}
+footer a{color:#ddd}
